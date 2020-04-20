@@ -18,5 +18,7 @@ This is a simple web project,deployment can be on any web server or even local f
 Just read the codebase starting from documentation and ak mentors for relevant details if something is not understood.
 Then start contributing. CHeers!!!
 
+Please fork this repository and then issue pull requests for review.
+
 ## Copyright
  2020 Git.Training.
