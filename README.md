@@ -4,10 +4,10 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-As stated above,the main purpose is to provide simple examples  with plenty of files for demos
 
 ## Deployment 
 
